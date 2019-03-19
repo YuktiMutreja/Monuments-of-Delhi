@@ -1,0 +1,28 @@
+#main-header
+{
+    background-color:olivedrab;
+    color:black;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#main 
+{
+    padding:30px;
+    box-sizing:border-box;
+    background-position:left;
+    background-color:powderblue;
+    text-align:left;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#main ul
+{
+    width:80%;
+    padding:30px;
+    box-sizing:border-box;
+    background-position:right;
+    background-color:palevioletred;
+    color:black;
+    text-align:left;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
